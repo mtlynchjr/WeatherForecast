@@ -1,0 +1,4 @@
+2020-10-06 23:58:19,995 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): api.openweathermap.org:80
+2020-10-06 23:58:20,089 - urllib3.connectionpool - DEBUG - http://api.openweathermap.org:80 "GET /data/2.5/forecast?q=minneapolis%2C+us&units=imperial HTTP/1.1" 401 107
+2020-10-06 23:58:52,453 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): api.openweathermap.org:80
+2020-10-06 23:58:52,561 - urllib3.connectionpool - DEBUG - http://api.openweathermap.org:80 "GET /data/2.5/forecast?q=minneapolis%2C+us&units=imperial HTTP/1.1" 401 107
